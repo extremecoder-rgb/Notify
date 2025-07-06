@@ -17,6 +17,23 @@ Notify is a cross-platform mobile application built with React Native and Expo. 
 
 ---
 
+## 🧰 Tech Stack
+
+- **React Native**: Core framework for building native mobile apps using JavaScript and React.
+- **Expo**: Toolchain and platform for universal React Native apps (development, build, and deployment).
+- **TypeScript**: Strongly-typed language for safer and more robust code.
+- **Expo Router**: File-based routing for navigation.
+- **AsyncStorage**: Local storage for persisting medication and dose data.
+- **Expo Notifications**: Push notification scheduling and handling.
+- **Expo Local Authentication**: Biometric authentication (Face ID, Touch ID, etc.).
+- **@react-native-community/datetimepicker**: Native date and time pickers.
+- **Ionicons**: Icon library for consistent UI.
+- **Jest & jest-expo**: Testing framework for unit and integration tests.
+- **React Native Reanimated**: Smooth and performant animations.
+- **Expo Linear Gradient & Blur**: Visual effects for modern UI.
+
+---
+
 ## 📱 Screens & Navigation
 
 - **Splash Screen**: Animated intro with app branding.

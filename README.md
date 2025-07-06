@@ -1,6 +1,6 @@
-# MedRemind - Medicine Reminder App
+# Notify - Medicine Reminder App
 
-MedRemind is a cross-platform mobile application built with React Native and Expo. It helps users manage their medication schedules, receive timely reminders, track medication history, and monitor refills. The app is designed for ease of use, security, and reliability, making it an ideal companion for anyone who needs to take medications regularly.
+Notify is a cross-platform mobile application built with React Native and Expo. It helps users manage their medication schedules, receive timely reminders, track medication history, and monitor refills. The app is designed for ease of use, security, and reliability, making it an ideal companion for anyone who needs to take medications regularly.
 
 ---
 
@@ -41,7 +41,7 @@ MedRemind is a cross-platform mobile application built with React Native and Exp
 1. **Clone the repository:**
    ```sh
    git clone <repo-url>
-   cd medicine-reminder-app-main/medicine-reminder-app-main
+   cd Notify/
    ```
 2. **Install dependencies:**
    ```sh
@@ -67,7 +67,6 @@ MedRemind is a cross-platform mobile application built with React Native and Exp
 ## 🗂️ Folder Structure
 
 ```
-medicine-reminder-app-main/
   app/                # App screens and navigation
   assets/             # Images, fonts, and static assets
   components/         # Reusable UI components
